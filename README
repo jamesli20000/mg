@@ -1,0 +1,3 @@
+mg is a nginx module.
+Now it is used as a proxy for zmtp protocol, it could work together with zmq to do SUB/PUB message.
+That is all, have fun.
